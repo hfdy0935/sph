@@ -679,15 +679,10 @@
       }
     }
   }
-  
-  
-
   img {
     transition: all 0.2s linear;
     &:hover {
       transform: scale(1.1);
     }
   }
-
-
-</style
+</style>
