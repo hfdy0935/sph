@@ -51,7 +51,7 @@ class Item(BaseModel):
 base_path = os.path.dirname(__file__) + '\\record\\'
 user_path =  os.path.dirname(__file__).split('\\')
 user_path = '\\'.join(user_path[:len(user_path) - 1]) + '\\users\\data\\users.json'
-# 哦暗短用户是否注册
+# 用户是否注册
 def is_registered(username: str):
     users = []
     with open(user_path, 'r', encoding = 'utf-8') as f:
