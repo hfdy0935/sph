@@ -690,4 +690,4 @@
   }
 
 
-</style>@/stores/goodsList@/stores/search
+</style
