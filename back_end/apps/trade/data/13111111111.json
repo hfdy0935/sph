@@ -1,0 +1,469 @@
+[
+  {
+    "currentPerson": {
+      "name": "张三",
+      "address": "北京市昌平区宏福科技园综合楼6层",
+      "tel": "15010658793"
+    },
+    "payWay": "在线支付",
+    "postWay": "顺丰",
+    "createTime": "2024-2-14",
+    "postTime": "2024-02-17-星期六-22:29~24:29",
+    "shoppingCartSelected": [
+      {
+        "goodsInfo": {
+          "attrs": "",
+          "category1Id": "2",
+          "category1Name": "电脑/办公",
+          "category2Id": "1",
+          "category2Name": "英文原版",
+          "category3Id": "1",
+          "category3Name": "少儿",
+          "color": "金色",
+          "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/1",
+          "hotScore": 1.4,
+          "id": 1,
+          "memory": "16G",
+          "price": 7399,
+          "sales": 11982,
+          "title": "山寨机清仓大甩卖",
+          "tmId": "9842853",
+          "tmName": "",
+          "version": "公开版",
+          "way": "官方标配"
+        },
+        "submitInfo": {
+          "buyNum": 1,
+          "price": 7399,
+          "submitTime": [
+            1707924513102
+          ],
+          "totalMoney": 7399
+        },
+        "userName": "13111111111"
+      },
+      {
+        "goodsInfo": {
+          "attrs": "",
+          "category1Id": "2",
+          "category1Name": "电脑/办公",
+          "category2Id": "1",
+          "category2Name": "英文原版",
+          "category3Id": "1",
+          "category3Name": "少儿",
+          "color": "金色",
+          "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/37",
+          "hotScore": 3.7,
+          "id": 2,
+          "memory": "16G",
+          "price": 13899,
+          "sales": 2247,
+          "title": "小米手机清仓大甩卖",
+          "tmId": "6915709",
+          "tmName": "",
+          "version": "公开版",
+          "way": "官方标配"
+        },
+        "submitInfo": {
+          "buyNum": 1,
+          "price": 13899,
+          "submitTime": [
+            1707924515766
+          ],
+          "totalMoney": 13899
+        },
+        "userName": "13111111111"
+      },
+      {
+        "goodsInfo": {
+          "attrs": "",
+          "category1Id": "2",
+          "category1Name": "电脑/办公",
+          "category2Id": "1",
+          "category2Name": "英文原版",
+          "category3Id": "1",
+          "category3Name": "少儿",
+          "color": "金色",
+          "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/15",
+          "hotScore": 1.9,
+          "id": 3,
+          "memory": "16G",
+          "price": 10499,
+          "sales": 12756,
+          "title": "山寨机清仓大甩卖",
+          "tmId": "8806552",
+          "tmName": "",
+          "version": "公开版",
+          "way": "官方标配"
+        },
+        "submitInfo": {
+          "buyNum": 1,
+          "price": 10499,
+          "submitTime": [
+            1707924518694
+          ],
+          "totalMoney": 10499
+        },
+        "userName": "13111111111"
+      },
+      {
+        "goodsInfo": {
+          "attrs": "",
+          "category1Id": "2",
+          "category1Name": "电脑/办公",
+          "category2Id": "1",
+          "category2Name": "英文原版",
+          "category3Id": "1",
+          "category3Name": "少儿",
+          "color": "金色",
+          "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/38",
+          "hotScore": 2.1,
+          "id": 4,
+          "memory": "16G",
+          "price": 1699,
+          "sales": 9203,
+          "title": "VIVO手机清仓大甩卖",
+          "tmId": "5600410",
+          "tmName": "",
+          "version": "公开版",
+          "way": "官方标配"
+        },
+        "submitInfo": {
+          "buyNum": 1,
+          "price": 1699,
+          "submitTime": [
+            1707924521134
+          ],
+          "totalMoney": 1699
+        },
+        "userName": "13111111111"
+      },
+      {
+        "goodsInfo": {
+          "attrs": "",
+          "category1Id": "2",
+          "category1Name": "电脑/办公",
+          "category2Id": "1",
+          "category2Name": "英文原版",
+          "category3Id": "1",
+          "category3Name": "少儿",
+          "color": "金色",
+          "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/3",
+          "hotScore": 3.3,
+          "id": 6,
+          "memory": "16G",
+          "price": 6499,
+          "sales": 13381,
+          "title": "VIVO手机清仓大甩卖",
+          "tmId": "8269238",
+          "tmName": "",
+          "version": "公开版",
+          "way": "官方标配"
+        },
+        "submitInfo": {
+          "buyNum": 1,
+          "price": 6499,
+          "submitTime": [
+            1707924530781
+          ],
+          "totalMoney": 6499
+        },
+        "userName": "13111111111"
+      },
+      {
+        "goodsInfo": {
+          "attrs": "",
+          "category1Id": "2",
+          "category1Name": "电脑/办公",
+          "category2Id": "1",
+          "category2Name": "英文原版",
+          "category3Id": "1",
+          "category3Name": "少儿",
+          "color": "金色",
+          "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/9",
+          "hotScore": 1.4,
+          "id": 7,
+          "memory": "16G",
+          "price": 3699,
+          "sales": 2059,
+          "title": "山寨机清仓大甩卖",
+          "tmId": "9980260",
+          "tmName": "",
+          "version": "公开版",
+          "way": "官方标配"
+        },
+        "submitInfo": {
+          "buyNum": 1,
+          "price": 3699,
+          "submitTime": [
+            1707924535485
+          ],
+          "totalMoney": 3699
+        },
+        "userName": "13111111111"
+      },
+      {
+        "goodsInfo": {
+          "attrs": "",
+          "category1Id": "2",
+          "category1Name": "电脑/办公",
+          "category2Id": "1",
+          "category2Name": "英文原版",
+          "category3Id": "1",
+          "category3Name": "少儿",
+          "color": "金色",
+          "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/21",
+          "hotScore": 1.8,
+          "id": 9,
+          "memory": "16G",
+          "price": 6699,
+          "sales": 10844,
+          "title": "三星手机清仓大甩卖",
+          "tmId": "7755140",
+          "tmName": "",
+          "version": "公开版",
+          "way": "官方标配"
+        },
+        "submitInfo": {
+          "buyNum": 1,
+          "price": 6699,
+          "submitTime": [
+            1707924539693
+          ],
+          "totalMoney": 6699
+        },
+        "userName": "13111111111"
+      }
+    ],
+    "shoppingCartSelectedIndex": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7
+    ],
+    "totalTradeNum": 7,
+    "totalTradeMoney": 50393,
+    "customTip": "",
+    "returnMoney": 14,
+    "postMoney": 29,
+    "finalPay": 50408,
+    "hasPaid": true,
+    "orderNum": "4172491286",
+    "payPlatform": "交通银行"
+  },
+  {
+    "currentPerson": {
+      "name": "张三",
+      "address": "北京市昌平区宏福科技园综合楼6层",
+      "tel": "15010658793"
+    },
+    "payWay": "在线支付",
+    "postWay": "极兔",
+    "createTime": "2024-2-14",
+    "postTime": "2024-02-17-星期六-22:31~24:31",
+    "shoppingCartSelected": [
+      {
+        "goodsInfo": {
+          "attrs": "",
+          "category1Id": "2",
+          "category1Name": "电脑/办公",
+          "category2Id": "1",
+          "category2Name": "英文原版",
+          "category3Id": "1",
+          "category3Name": "少儿",
+          "color": "金色",
+          "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/16",
+          "hotScore": 4.7,
+          "id": 5,
+          "memory": "16G",
+          "price": 3699,
+          "sales": 7786,
+          "title": "小米手机清仓大甩卖",
+          "tmId": "7231167",
+          "tmName": "",
+          "version": "公开版",
+          "way": "官方标配"
+        },
+        "submitInfo": {
+          "buyNum": 1,
+          "price": 3699,
+          "submitTime": [
+            1707924524637
+          ],
+          "totalMoney": 3699
+        },
+        "userName": "13111111111"
+      }
+    ],
+    "shoppingCartSelectedIndex": [
+      0
+    ],
+    "totalTradeNum": 1,
+    "totalTradeMoney": 3699,
+    "customTip": "",
+    "returnMoney": 0,
+    "postMoney": 25,
+    "finalPay": 3724,
+    "hasPaid": false,
+    "orderNum": "0855456330"
+  },
+  {
+    "currentPerson": {
+      "name": "张三",
+      "address": "北京市昌平区宏福科技园综合楼6层",
+      "tel": "15010658793"
+    },
+    "payWay": "在线支付",
+    "postWay": "极兔",
+    "createTime": "2024-2-15",
+    "postTime": "2024-02-18-星期日-8:33~091:33",
+    "shoppingCartSelected": [
+      {
+        "goodsInfo": {
+          "attrs": "",
+          "category1Id": "2",
+          "category1Name": "电脑/办公",
+          "category2Id": "1",
+          "category2Name": "英文原版",
+          "category3Id": "1",
+          "category3Name": "少儿",
+          "color": "金色",
+          "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/16",
+          "hotScore": 4.7,
+          "id": 5,
+          "memory": "16G",
+          "price": 3699,
+          "sales": 7786,
+          "title": "小米手机清仓大甩卖",
+          "tmId": "7231167",
+          "tmName": "",
+          "version": "公开版",
+          "way": "官方标配"
+        },
+        "submitInfo": {
+          "buyNum": 1,
+          "price": 3699,
+          "submitTime": [
+            1707924524637
+          ],
+          "totalMoney": 3699
+        },
+        "userName": "13111111111"
+      },
+      {
+        "goodsInfo": {
+          "attrs": "",
+          "category1Id": "6",
+          "category1Name": "女鞋/箱包/钟表/珠宝",
+          "category2Id": "3",
+          "category2Name": "教育",
+          "category3Id": "1",
+          "category3Name": "中小学教辅",
+          "color": "金色",
+          "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/37",
+          "hotScore": 1.5,
+          "id": 2,
+          "memory": "128G",
+          "price": 6899,
+          "sales": 2877,
+          "title": "三星手机清仓大甩卖",
+          "tmId": "889541",
+          "tmName": "",
+          "version": "公开版",
+          "way": "官方标配"
+        },
+        "submitInfo": {
+          "buyNum": 5,
+          "price": 7299,
+          "submitTime": [
+            1707960752679
+          ],
+          "totalMoney": 36495
+        },
+        "userName": "13111111111"
+      },
+      {
+        "goodsInfo": {
+          "attrs": "",
+          "category1Id": "7",
+          "category1Name": "男鞋/运动/户外",
+          "category2Id": "5",
+          "category2Name": "科技",
+          "category3Id": "1",
+          "category3Name": "工业技术",
+          "color": "金色",
+          "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/3",
+          "hotScore": 1.2,
+          "id": 2,
+          "memory": "16G",
+          "price": 3499,
+          "sales": 2071,
+          "title": "OPPO手机清仓大甩卖",
+          "tmId": "2730806",
+          "tmName": "",
+          "version": "公开版",
+          "way": "官方标配"
+        },
+        "submitInfo": {
+          "buyNum": 1,
+          "price": 3499,
+          "submitTime": [
+            1707960820247
+          ],
+          "totalMoney": 3499
+        },
+        "userName": "13111111111"
+      },
+      {
+        "goodsInfo": {
+          "attrs": "",
+          "category1Id": "9",
+          "category1Name": "母婴/玩具/乐器",
+          "category2Id": "5",
+          "category2Name": "其他",
+          "category3Id": "2",
+          "category3Name": "杂志期刊",
+          "color": "金色",
+          "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/34",
+          "hotScore": 3.8,
+          "id": 4,
+          "memory": "512G",
+          "price": 7699,
+          "sales": 1837,
+          "title": "苹果手机清仓大甩卖",
+          "tmId": "7425528",
+          "tmName": "",
+          "version": "公开版",
+          "way": "优惠联通版"
+        },
+        "submitInfo": {
+          "buyNum": 1,
+          "price": 9099,
+          "submitTime": [
+            1707960829055
+          ],
+          "totalMoney": 9099
+        },
+        "userName": "13111111111"
+      }
+    ],
+    "shoppingCartSelectedIndex": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "totalTradeNum": 8,
+    "totalTradeMoney": 52792,
+    "customTip": "",
+    "returnMoney": 0,
+    "postMoney": 43,
+    "finalPay": 52835,
+    "hasPaid": true,
+    "orderNum": "104441084834",
+    "payPlatform": "微信"
+  }
+]

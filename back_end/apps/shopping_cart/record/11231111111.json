@@ -1,0 +1,66 @@
+[
+  {
+    "goodsInfo": {
+      "attrs": "",
+      "category1Id": "8",
+      "category1Name": "房产/汽车/汽车用品",
+      "category2Id": "6",
+      "category2Name": "人文社科",
+      "category3Id": "1",
+      "category3Name": "历史",
+      "color": "金色",
+      "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/41",
+      "hotScore": 1.1,
+      "id": 1,
+      "memory": "16G",
+      "price": 1799,
+      "sales": 4936,
+      "title": "三星手机清仓大甩卖",
+      "tmId": "4067452",
+      "tmName": "",
+      "version": "公开版",
+      "way": "官方标配"
+    },
+    "submitInfo": {
+      "buyNum": 1,
+      "price": 1799,
+      "submitTime": [
+        1707973414099
+      ],
+      "totalMoney": 1799
+    },
+    "userName": "11231111111"
+  },
+  {
+    "goodsInfo": {
+      "attrs": "",
+      "category1Id": "8",
+      "category1Name": "房产/汽车/汽车用品",
+      "category2Id": "6",
+      "category2Name": "人文社科",
+      "category3Id": "1",
+      "category3Name": "历史",
+      "color": "金色",
+      "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/10",
+      "hotScore": 4.4,
+      "id": 2,
+      "memory": "16G",
+      "price": 12499,
+      "sales": 1382,
+      "title": "三星手机清仓大甩卖",
+      "tmId": "2489141",
+      "tmName": "",
+      "version": "公开版",
+      "way": "官方标配"
+    },
+    "submitInfo": {
+      "buyNum": 1,
+      "price": 12499,
+      "submitTime": [
+        1707973417131
+      ],
+      "totalMoney": 12499
+    },
+    "userName": "11231111111"
+  }
+]

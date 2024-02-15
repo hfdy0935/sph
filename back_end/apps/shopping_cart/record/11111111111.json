@@ -1,0 +1,34 @@
+[
+  {
+    "goodsInfo": {
+      "attrs": "",
+      "category1Id": "7",
+      "category1Name": "男鞋/运动/户外",
+      "category2Id": "5",
+      "category2Name": "科技",
+      "category3Id": "1",
+      "category3Name": "工业技术",
+      "color": "金色",
+      "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/32",
+      "hotScore": 3.7,
+      "id": 1,
+      "memory": "16G",
+      "price": 12999,
+      "sales": 8313,
+      "title": "三星手机清仓大甩卖",
+      "tmId": "8907843",
+      "tmName": "",
+      "version": "公开版",
+      "way": "官方标配"
+    },
+    "submitInfo": {
+      "buyNum": 1,
+      "price": 12999,
+      "submitTime": [
+        1707918707324
+      ],
+      "totalMoney": 12999
+    },
+    "userName": "11111111111"
+  }
+]

@@ -1,5 +1,5 @@
 - 尚品汇练习
-  - Vue3组合式API + Pinia + VueROuter
+  - Vue3组合式API + Pinia + VueRouter
   - Fastapi简易后端
 - 结构
   - front_end：前端部分

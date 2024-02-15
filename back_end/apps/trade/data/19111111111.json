@@ -1,0 +1,469 @@
+[
+  {
+    "currentPerson": {
+      "name": "张三",
+      "address": "北京市昌平区宏福科技园综合楼6层",
+      "tel": "15010658793"
+    },
+    "payWay": "在线支付",
+    "postWay": "极兔",
+    "createTime": "2024-2-15",
+    "postTime": "2024-02-18-星期日-14:14~16:14",
+    "shoppingCartSelected": [
+      {
+        "goodsInfo": {
+          "attrs": "",
+          "category1Id": "8",
+          "category1Name": "房产/汽车/汽车用品",
+          "category2Id": "6",
+          "category2Name": "人文社科",
+          "category3Id": "3",
+          "category3Name": "国学",
+          "color": "金色",
+          "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/38",
+          "hotScore": 4.6,
+          "id": 1,
+          "memory": "16G",
+          "price": 13699,
+          "sales": 14126,
+          "title": "三星手机清仓大甩卖",
+          "tmId": "7103968",
+          "tmName": "",
+          "version": "公开版",
+          "way": "官方标配"
+        },
+        "submitInfo": {
+          "buyNum": 1,
+          "price": 13699,
+          "submitTime": [
+            1707981217640
+          ],
+          "totalMoney": 13699
+        },
+        "userName": "19111111111"
+      },
+      {
+        "goodsInfo": {
+          "attrs": "",
+          "category1Id": "8",
+          "category1Name": "房产/汽车/汽车用品",
+          "category2Id": "6",
+          "category2Name": "人文社科",
+          "category3Id": "3",
+          "category3Name": "国学",
+          "color": "金色",
+          "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/2",
+          "hotScore": 3.2,
+          "id": 2,
+          "memory": "16G",
+          "price": 3999,
+          "sales": 7809,
+          "title": "小米手机清仓大甩卖",
+          "tmId": "3903426",
+          "tmName": "",
+          "version": "公开版",
+          "way": "官方标配"
+        },
+        "submitInfo": {
+          "buyNum": 1,
+          "price": 3999,
+          "submitTime": [
+            1707981221176
+          ],
+          "totalMoney": 3999
+        },
+        "userName": "19111111111"
+      },
+      {
+        "goodsInfo": {
+          "attrs": "",
+          "category1Id": "8",
+          "category1Name": "房产/汽车/汽车用品",
+          "category2Id": "6",
+          "category2Name": "人文社科",
+          "category3Id": "3",
+          "category3Name": "国学",
+          "color": "金色",
+          "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/7",
+          "hotScore": 1.5,
+          "id": 3,
+          "memory": "16G",
+          "price": 6699,
+          "sales": 9402,
+          "title": "华为手机清仓大甩卖",
+          "tmId": "5166756",
+          "tmName": "",
+          "version": "公开版",
+          "way": "官方标配"
+        },
+        "submitInfo": {
+          "buyNum": 1,
+          "price": 6699,
+          "submitTime": [
+            1707981224032
+          ],
+          "totalMoney": 6699
+        },
+        "userName": "19111111111"
+      },
+      {
+        "goodsInfo": {
+          "attrs": "",
+          "category1Id": "8",
+          "category1Name": "房产/汽车/汽车用品",
+          "category2Id": "6",
+          "category2Name": "人文社科",
+          "category3Id": "3",
+          "category3Name": "国学",
+          "color": "金色",
+          "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/31",
+          "hotScore": 3.2,
+          "id": 5,
+          "memory": "16G",
+          "price": 12499,
+          "sales": 11943,
+          "title": "OPPO手机清仓大甩卖",
+          "tmId": "6928837",
+          "tmName": "",
+          "version": "公开版",
+          "way": "官方标配"
+        },
+        "submitInfo": {
+          "buyNum": 1,
+          "price": 12499,
+          "submitTime": [
+            1707981226856
+          ],
+          "totalMoney": 12499
+        },
+        "userName": "19111111111"
+      },
+      {
+        "goodsInfo": {
+          "attrs": "",
+          "category1Id": "8",
+          "category1Name": "房产/汽车/汽车用品",
+          "category2Id": "6",
+          "category2Name": "人文社科",
+          "category3Id": "3",
+          "category3Name": "国学",
+          "color": "金色",
+          "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/29",
+          "hotScore": 2,
+          "id": 6,
+          "memory": "16G",
+          "price": 9299,
+          "sales": 8766,
+          "title": "VIVO手机清仓大甩卖",
+          "tmId": "2102106",
+          "tmName": "",
+          "version": "公开版",
+          "way": "官方标配"
+        },
+        "submitInfo": {
+          "buyNum": 1,
+          "price": 9299,
+          "submitTime": [
+            1707981231360
+          ],
+          "totalMoney": 9299
+        },
+        "userName": "19111111111"
+      },
+      {
+        "goodsInfo": {
+          "attrs": "",
+          "category1Id": "8",
+          "category1Name": "房产/汽车/汽车用品",
+          "category2Id": "6",
+          "category2Name": "人文社科",
+          "category3Id": "3",
+          "category3Name": "国学",
+          "color": "金色",
+          "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/35",
+          "hotScore": 3.2,
+          "id": 7,
+          "memory": "16G",
+          "price": 8199,
+          "sales": 8736,
+          "title": "三星手机清仓大甩卖",
+          "tmId": "1164998",
+          "tmName": "",
+          "version": "公开版",
+          "way": "官方标配"
+        },
+        "submitInfo": {
+          "buyNum": 1,
+          "price": 8199,
+          "submitTime": [
+            1707981235336
+          ],
+          "totalMoney": 8199
+        },
+        "userName": "19111111111"
+      },
+      {
+        "goodsInfo": {
+          "attrs": "",
+          "category1Id": "8",
+          "category1Name": "房产/汽车/汽车用品",
+          "category2Id": "6",
+          "category2Name": "人文社科",
+          "category3Id": "3",
+          "category3Name": "国学",
+          "color": "金色",
+          "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/39",
+          "hotScore": 4.2,
+          "id": 9,
+          "memory": "16G",
+          "price": 9999,
+          "sales": 8929,
+          "title": "山寨机清仓大甩卖",
+          "tmId": "1784485",
+          "tmName": "",
+          "version": "公开版",
+          "way": "官方标配"
+        },
+        "submitInfo": {
+          "buyNum": 1,
+          "price": 9999,
+          "submitTime": [
+            1707981239192
+          ],
+          "totalMoney": 9999
+        },
+        "userName": "19111111111"
+      },
+      {
+        "goodsInfo": {
+          "attrs": "",
+          "category1Id": "8",
+          "category1Name": "房产/汽车/汽车用品",
+          "category2Id": "6",
+          "category2Name": "人文社科",
+          "category3Id": "3",
+          "category3Name": "国学",
+          "color": "金色",
+          "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/30",
+          "hotScore": 3.9,
+          "id": 10,
+          "memory": "16G",
+          "price": 9799,
+          "sales": 9512,
+          "title": "VIVO手机清仓大甩卖",
+          "tmId": "6515140",
+          "tmName": "",
+          "version": "公开版",
+          "way": "官方标配"
+        },
+        "submitInfo": {
+          "buyNum": 100,
+          "price": 9799,
+          "submitTime": [
+            1707981244944
+          ],
+          "totalMoney": 979900
+        },
+        "userName": "19111111111"
+      }
+    ],
+    "shoppingCartSelectedIndex": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "totalTradeNum": 107,
+    "totalTradeMoney": 1044293,
+    "customTip": "",
+    "returnMoney": 15,
+    "postMoney": 36,
+    "finalPay": 1044314,
+    "hasPaid": true,
+    "orderNum": "645100410334",
+    "payPlatform": "微信"
+  },
+  {
+    "currentPerson": {
+      "name": "张三",
+      "address": "北京市昌平区宏福科技园综合楼6层",
+      "tel": "15010658793"
+    },
+    "payWay": "在线支付",
+    "postWay": "顺丰",
+    "createTime": "2024-2-15",
+    "postTime": "2024-02-18-星期日-14:18~16:18",
+    "shoppingCartSelected": [
+      {
+        "goodsInfo": {
+          "attrs": "",
+          "category1Id": "8",
+          "category1Name": "房产/汽车/汽车用品",
+          "category2Id": "",
+          "category2Name": "",
+          "category3Id": "",
+          "category3Name": "",
+          "color": "金色",
+          "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/17",
+          "hotScore": 3.3,
+          "id": 3,
+          "memory": "16G",
+          "price": 9299,
+          "sales": 328,
+          "title": "山寨机清仓大甩卖",
+          "tmId": "7432220",
+          "tmName": "",
+          "version": "公开版",
+          "way": "官方标配"
+        },
+        "submitInfo": {
+          "buyNum": 100,
+          "price": 9299,
+          "submitTime": [
+            1707981490737
+          ],
+          "totalMoney": 929900
+        },
+        "userName": "19111111111"
+      },
+      {
+        "goodsInfo": {
+          "attrs": "",
+          "category1Id": "8",
+          "category1Name": "房产/汽车/汽车用品",
+          "category2Id": "",
+          "category2Name": "",
+          "category3Id": "",
+          "category3Name": "",
+          "color": "金色",
+          "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/9",
+          "hotScore": 4.8,
+          "id": 4,
+          "memory": "512G",
+          "price": 11899,
+          "sales": 3125,
+          "title": "华为手机清仓大甩卖",
+          "tmId": "1549773",
+          "tmName": "",
+          "version": "公开版",
+          "way": "官方标配"
+        },
+        "submitInfo": {
+          "buyNum": 1,
+          "price": 13099,
+          "submitTime": [
+            1707981495831
+          ],
+          "totalMoney": 13099
+        },
+        "userName": "19111111111"
+      }
+    ],
+    "shoppingCartSelectedIndex": [
+      0,
+      1
+    ],
+    "totalTradeNum": 101,
+    "totalTradeMoney": 942999,
+    "customTip": "",
+    "returnMoney": 14,
+    "postMoney": 24,
+    "finalPay": 943009,
+    "hasPaid": true,
+    "orderNum": "1507837446",
+    "payPlatform": "微信"
+  },
+  {
+    "currentPerson": {
+      "name": "张三",
+      "address": "北京市昌平区宏福科技园综合楼6层",
+      "tel": "15010658793"
+    },
+    "payWay": "在线支付",
+    "postWay": "极兔",
+    "createTime": "2024-2-15",
+    "postTime": "2024-02-18-星期日-14:23~16:23",
+    "shoppingCartSelected": [
+      {
+        "goodsInfo": {
+          "attrs": "",
+          "category1Id": "8",
+          "category1Name": "房产/汽车/汽车用品",
+          "category2Id": "",
+          "category2Name": "",
+          "category3Id": "",
+          "category3Name": "",
+          "color": "金色",
+          "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/17",
+          "hotScore": 3.3,
+          "id": 3,
+          "memory": "256G",
+          "price": 9299,
+          "sales": 328,
+          "title": "山寨机清仓大甩卖",
+          "tmId": "7432220",
+          "tmName": "",
+          "version": "公开版",
+          "way": "官方标配"
+        },
+        "submitInfo": {
+          "buyNum": 1,
+          "price": 9999,
+          "submitTime": [
+            1707981808661
+          ],
+          "totalMoney": 9999
+        },
+        "userName": "19111111111"
+      },
+      {
+        "goodsInfo": {
+          "attrs": "",
+          "category1Id": "8",
+          "category1Name": "房产/汽车/汽车用品",
+          "category2Id": "",
+          "category2Name": "",
+          "category3Id": "",
+          "category3Name": "",
+          "color": "金色",
+          "defaultImg": "http://127.0.0.1:8000/api/search/goodsImage/1/20",
+          "hotScore": 3.4,
+          "id": 2,
+          "memory": "16G",
+          "price": 13099,
+          "sales": 9242,
+          "title": "三星手机清仓大甩卖",
+          "tmId": "4376349",
+          "tmName": "",
+          "version": "公开版",
+          "way": "官方标配"
+        },
+        "submitInfo": {
+          "buyNum": 1,
+          "price": 13099,
+          "submitTime": [
+            1707981814128
+          ],
+          "totalMoney": 13099
+        },
+        "userName": "19111111111"
+      }
+    ],
+    "shoppingCartSelectedIndex": [
+      0,
+      1
+    ],
+    "totalTradeNum": 2,
+    "totalTradeMoney": 23098,
+    "customTip": "",
+    "returnMoney": 6,
+    "postMoney": 34,
+    "finalPay": 23126,
+    "hasPaid": false,
+    "orderNum": "1507837446"
+  }
+]
