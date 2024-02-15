@@ -32,38 +32,38 @@ app.include_router(router = user)
 app.include_router(router = trade)
 app.include_router(router = center)
 
-
-@app.get('/') 
-def home_response():
-    with open('../dist/index.html', encoding = 'utf-8') as f:
-        return HTMLResponse(content = f.read(), media_type = 'text/html')
+# 上线时用
+# @app.get('/') 
+# def home_response():
+#     with open('../dist/index.html', encoding = 'utf-8') as f:
+#         return HTMLResponse(content = f.read(), media_type = 'text/html')
     
-@app.get('/assets/{filename}')
-async def get_file(filename: str):
-    postfix = filename.split('.')[-1]
-    dic1 = {
-        'css': 'text/css',
-        'js': 'application/javascript',
-        'ico': 'image/x-icon',
-        'json': 'application/json',
-        'map': 'application/json',
-    }
-    dic2 = {
-        'png': 'image/png',
-        'jpg': 'image/jpeg',
-        'jpeg': 'image/jpeg',
-        'gif': 'image/gif',
-        'svg': 'image/svg+xml',
-    }
-    if postfix in dic1:
-        async with aiofiles.open(f'../dist/assets/{filename}', 'r', encoding = 'utf-8') as f:
-            return Response(await f.read(), media_type = dic1[postfix])
-    elif postfix in dic2:
-       async with aiofiles.open(f'../dist/assets/{filename}', 'rb') as f:
-        return Response(await f.read(), media_type = dic2[postfix])
+# @app.get('/assets/{filename}')
+# async def get_file(filename: str):
+#     postfix = filename.split('.')[-1]
+#     dic1 = {
+#         'css': 'text/css',
+#         'js': 'application/javascript',
+#         'ico': 'image/x-icon',
+#         'json': 'application/json',
+#         'map': 'application/json',
+#     }
+#     dic2 = {
+#         'png': 'image/png',
+#         'jpg': 'image/jpeg',
+#         'jpeg': 'image/jpeg',
+#         'gif': 'image/gif',
+#         'svg': 'image/svg+xml',
+#     }
+#     if postfix in dic1:
+#         async with aiofiles.open(f'../dist/assets/{filename}', 'r', encoding = 'utf-8') as f:
+#             return Response(await f.read(), media_type = dic1[postfix])
+#     elif postfix in dic2:
+#        async with aiofiles.open(f'../dist/assets/{filename}', 'rb') as f:
+#         return Response(await f.read(), media_type = dic2[postfix])
 
 
-app.mount('/', StaticFiles(directory = '../dist'), name = 'static')
+# app.mount('/', StaticFiles(directory = '../dist'), name = 'static')
 
 if __name__ == '__main__':
     uvicorn.run(app = 'server:app', host = '127.0.0.1', port = 8000, reload = True)
